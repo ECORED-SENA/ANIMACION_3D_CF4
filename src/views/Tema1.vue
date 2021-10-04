@@ -144,6 +144,16 @@
           .col-lg-10
             figure      
               img(src='@/assets/curso/tema1/img13.png')
+
+    .row.justify-content-center.mb-5
+      .col-lg-7
+        a.anexo.mb-4.mb-lg-0(href="https://color.adobe.com/es/create/color-wheel" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p <b>Enlace web.</b> Para crear paletas de color y jugar con diferentes esquemas puede consultar la herramienta creada por Adobe llamada Adobe Color, anteriormente conocida como Kuler desde internet.
+        
+        
     Separador
 
     #t_1_5.titulo-segundo
