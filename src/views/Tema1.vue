@@ -94,7 +94,7 @@
     .row.justify-content-center
       .col-lg-10
         .cajon.color-primario.p-4.mb-4
-          Se divide en doce segmentos, incluyendo los tonos primarios, secundarios y terciarios. Los tres colores primarios: rojo, amarillo y azul, forman un triángulo equilátero dentro del círculo. Si se mezclan en igual medida dos colores primarios, se obtiene un color secundario; y si se mezcla un primario con un secundario se tiene un terciario.
+          p.mb-0 Se divide en doce segmentos, incluyendo los tonos primarios, secundarios y terciarios. Los tres colores primarios: rojo, amarillo y azul, forman un triángulo equilátero dentro del círculo. Si se mezclan en igual medida dos colores primarios, se obtiene un color secundario; y si se mezcla un primario con un secundario se tiene un terciario.
 
     Separador
 
@@ -230,7 +230,6 @@
       .col-lg-3
         figure      
           img(src='@/assets/curso/tema1/img33.svg')
-
     
     
     Separador
