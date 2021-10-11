@@ -5,13 +5,13 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Concept art
+      h1 <i>concept </i>art
 
-    .video.mb-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .video.mb-5      
+      iframe(width="1255" height="706" src="https://www.youtube.com/embed/8iZoC6KWllA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.mb-5
-      .col-lg-10 Durante la etapa de concept art se desarrollan los diseños de personajes, props y escenarios e incluso se hacen fotogramas clave de ciertas acciones importantes de la historia. A pesar de estar relacionado con la ilustración y compartir muchos elementos, corresponden a cosas diferentes, ya que el objetivo de la ilustración consiste en directamente contar historias, mientras que el concept art solo pretende plasmar una visión de forma en que los integrantes de un equipo de producción tengan claridad en cuanto a la forma en que se debe ver algo.
+      .col-lg-10 Durante la etapa de <i>concept </i>art se desarrollan los diseños de personajes, <i>props</i> y escenarios e incluso se hacen fotogramas clave de ciertas acciones importantes de la historia. A pesar de estar relacionado con la ilustración y compartir muchos elementos, corresponden a cosas diferentes, ya que el objetivo de la ilustración consiste en directamente contar historias, mientras que el <i>concept </i>art solo pretende plasmar una visión de forma en que los integrantes de un equipo de producción tengan claridad en cuanto a la forma en que se debe ver algo.
 
     .row.justify-content-center
       .col-lg-7
@@ -19,7 +19,7 @@
           img(src='@/assets/curso/tema2/img01.png')
       .col-lg-5
         p.mb-4 En cuanto a los materiales, lo más importante es una mente nutrida, un cerebro que tenga claro los fundamentos de anatomía, teoría del color, composición, perspectiva, uso de formas, historia del arte y que sobre todo se está nutriendo constantemente de cine, música, pintura, teatro… en general de arte y también del mundo que lo rodea, debido a que la observación del mundo es fundamental para entenderlo y lograr que, al momento de proponer gráficamente ideas, estas sean coherentes y creíbles.
-        p.mb-0 Más allá de esto, con un lápiz y una hoja de papel, es suficiente para hacer concept art. Pero básicamente se puede hacer uso de prácticamente cualquier material e instrumento que permita al artista plasmar imágenes como los tradicionales oleos, acrílicos, acuarelas, lápices de color, entre otros. Sin embargo, la evolución tecnológica ha permitido que se desarrollen innumerables alternativas de hardware y software que han causado la preponderancia de los medios digitales en el desarrollo de concept art, gracias a las alternativas que ofrecen para la optimización de tiempos.
+        p.mb-0 Más allá de esto, con un lápiz y una hoja de papel, es suficiente para hacer <i>concept  art.</i> Pero básicamente se puede hacer uso de prácticamente cualquier material e instrumento que permita al artista plasmar imágenes como los tradicionales oleos, acrílicos, acuarelas, lápices de color, entre otros. Sin embargo, la evolución tecnológica ha permitido que se desarrollen innumerables alternativas de hardware y software que han causado la preponderancia de los medios digitales en el desarrollo de <i>concept </i>art, gracias a las alternativas que ofrecen para la optimización de tiempos.
 
     Separador
 
@@ -60,7 +60,7 @@
                   table      
                     tr.tabla-b__header
                       th Referente          
-                      th Sitio web          
+                      th Sitio <i>web</i>          
                     tr
                       td Carter Goodrich
                       td 
@@ -132,53 +132,67 @@
         h4 Paso 1       
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img07.svg')
+            p.mb-0 Para generar una figura humana usando como base el canon idealizado de 8 cabezas se debe crear una cuadrícula de 8 unidades de alto y 2 de ancho, la unidad de medida corresponde al alto de la cabeza desde el mentón hasta la coronilla.
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 2")
         h4 Paso 2   
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img08.svg')
+            p.mb-0 Seguidamente, en la fila número uno dibujar un círculo desde la línea superior de la cuadrícula y alineando su mitad con la línea central vertical, la circunferencia debe tener por altura 2 tercios del cuadro y en el tercio restante dibujar una semicircunferencia afilada en su parte inferior central que inicie desde el último tercio del círculo ya existente y que termine en la línea inferior del cuadro 1.
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 3")
         h4 Paso 3       
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img09.svg')
+            p.mb-0 En la mitad de la fila 2 hacer una línea horizontal que tenga por ancho el equivalente a 2 unidades del alto de la cabeza; es decir, debe ir trazada de lado a lado de la cuadrícula y servirá para indicar la posición de los hombros. Seguidamente, en la mitad de la fila 4 trazar otra línea horizontal con un ancho de 1 ½ cabezas, esta línea indica la posición de la cadera.
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 4")
         h4 Paso 4       
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img10.svg')
+            p.mb-0 En la intersección de las líneas laterales con la línea inferior de la fila 3, dibujar pequeños círculos con un diámetro de aproximadamente una quinta parte de la altura de la cabeza, estos indican la posición de los codos. Luego sobre la línea inferior de la fila 6 dibujar 2 óvalos con una altura aproximada de un tercio del cuadro con la separación equivalente al ancho de la cabeza, la cual corresponde a la medida del alto de media cabeza. Estos óvalos representan la ubicación de las rodillas.
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 5")
         h4 Paso 5      
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img11.svg')
+            p.mb-4 Generar una línea que conecte desde el extremo de la línea del hombro con la circunferencia del codo la cual representa el brazo y una segunda línea desde la circunferencia del codo hasta el primer quinto de la fila 5 para representar el antebrazo hasta la muñeca.
+            p.mb-0 Luego, conectar el extremo de la línea de la cadera con el óvalo de la rodilla generando una línea inclinada que representa la porción superior de la pierna y luego desde el extremo inferior del óvalo de la rodilla proyectar una línea recta hasta la línea inferior de la fila 8 para representar la porción inferior de las piernas.
+
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 6")
         h4 Paso 6      
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img12.svg')
+            p.mb-4 Desde la línea de la cadera dibujar una línea que suba hasta la base de la fila 3 y llegue casi a la mitad horizontal del cuadro y con esto se marcará la cintura, seguidamente proyectar este punto hasta el inicio del último décimo de la línea de los hombros para marcar el espacio de la caja torácica.
+            p.mb-4 Desde los extremos laterales de la cabeza trazar líneas verticales que lleguen al primer cuarto de la fila 2 y a partir de ahí conectar con un semicírculo que llegue a la línea de los hombros, con esto se inscribe un cilindro que representa el cuello. Luego desde la mitad de la vertical del cuello proyectar una línea oblicua que conecte con la línea que define el tórax y de esta forma se obtiene la ubicación de los músculos del trapecio. 
+            p.mb-4 Para definir las manos trazar una línea horizontal del ancho del codo perpendicular a la línea de la muñeca. Seguidamente trazar una línea paralela un poco por debajo de la mitad de la fila 5 la cual debe tener entre un 25% y 30% más de longitud, al conectar los extremos se genera un trapecio que sirve para representar la zona de los huesos carpianos y metacarpianos de la mano, luego generar 2 pequeños paralelopipedos que servirán para indicar la posición de los dedos.
+            p.mb-4 Para los pies generar un par de trapecios que inician poco más abajo de la mitad de la octava fila con un ancho superior similar al de las rodillas y un ancho inferior equivalente a la medida de 1 cabeza.
+            p.mb-4 Finalmente, inscribir un triángulo que conecte los extremos de la línea de la cadera con el primer quinto de la fila 5 para definir la zona de la pelvis.
+            p.mb-0 Para el caso femenino el sistema es el mismo salvo unas pequeñas diferencias como que la línea de los hombros y cadera tienen el mismo ancho siendo este de 1 ½ cabezas, los círculos de los codos no van en la intersección de las líneas sino sobre la línea inferior de la fila 3 y alineados con el ancho de los hombros, la distancia que suben las manos es la misma que suben los codos, el cuello es más delgado y los pies y manos más pequeños.
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 7")
         h4 Paso 7      
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img13.svg')
+            p.mb-0 El siguiente paso corresponde a inscribir una serie de óvalos y gotas para definir los principales grupos musculares, lo que permite tener una estructura completa sobre la cual se podrán empezar a añadir distintos tipos de detalles para obtener una figura definida.
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 8")
         h4 Paso 8      
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img14.svg')
-    .row.justify-content-center
-      .col-lg-10
-        p.mb-0 Para generar una figura humana usando como base el canon idealizado de 8 cabezas se debe crear una cuadrícula de 8 unidades de alto y 2 de ancho, la unidad de medida corresponde al alto de la cabeza desde el mentón hasta la coronilla.
+            p.mb-0 Una vez se tiene una estructura definida, se puede proceder a añadir detalles usando como referencia fotografías y esquemas musculares. Esta última parte del proceso es la que requiere más sensibilidad artística y la que solo se podrá refinar con la práctica; sin embargo, al partir de una construcción geométrica simplificada es más fácil lograr representar formas complejas de manera adecuada como es el caso del cuerpo humano.
+    
+        
 
     Separador
 
@@ -197,50 +211,73 @@
         h4 Paso 1       
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img16.png')
+            p.mb-0 El primer paso es dibujar una circunferencia, la cual servirá de base para representar la parte superior de la cabeza.
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 2")
         h4 Paso 2     
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img17.png')
+            p.mb-4 Para el caso frontal (parte superior) marcar una línea vertical y una horizontal dividiendo el círculo en cuatro partes iguales, luego al costado del círculo marcar una línea vertical aproximadamente a un décimo del ancho total de la circunferencia y repetir al lado opuesto.
+            p.mb-4 Conectar los puntos superiores y los inferiores de manera que quede inscrito un cuadrado al interior del círculo, las líneas verticales laterales servirán para definir el ancho del rostro y las líneas horizontales nos marcaran la altura de la línea de cabello, la altura de la línea de las cejas y la altura de la base de la nariz.
+            p.mb-4 Seguidamente, trazar una línea horizontal bajo el círculo a una distancia equivalente a la existente entre las otras líneas horizontales. Esta última línea servirá para definir la base del mentón.
+            p.mb-4 Para el caso del rostro en ¾ (parte inferior) dibujar un óvalo al interior y a un costado de la circunferencia representando un círculo en perspectiva, este será el equivalente al corte hecho con las líneas verticales en el rostro frontal.
+            p.mb-4 Marcar dentro del círculo interior una cruz para dividirlo en 4 partes y proyectar la línea más cercana a la horizontal hacia el resto de la circunferencia para obtener la línea de la mitad de la esfera, la cual servirá para determinar el lugar donde irá la base de la nariz.
+            p.mb-0 Luego, paralela a esta línea media trazar una línea superior proyectada sobre la esfera y tangente al punto más alto del circulo interno, la cual servirá para representar la línea de cabello, repetir trazando otra línea tangente al punto más bajo del circulo interno que representará la línea sobre la cual se pondrá la base de la nariz. 
+
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 3")
         h4 Paso 3     
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img18.png')
+            p.mb-4 Acá se empieza a definir el género sexual del rostro. Para ello, se usan trazos con formas delicadas y curvas para el caso del rostro femenino y trazos rectos y formas gruesas para el caso masculino.
+            p.mb-4 En la vista frontal dividir la línea de las cejas al interior del cuadro en 8 partes, 2 partes equivaldrá al ancho de un ojo de esta forma se podrá calcular la posición de los ojos bajo la línea de las cejas.
+            p.mb-4 Bajo la línea de las cejas se deben dejar las dos partes centrales vacías y en las 2 siguientes a cada lado dibujar una forma almendrada que servirá de base para dibujar los ojos. Luego se dibuja sobre la línea de las cejas los arcos que las representaran.
+            p.mb-4 La nariz tiene el ancho de un ojo, por lo tanto, en la línea de la nariz se dibujan 3 semicírculos, dos pequeños a los costados y uno más grande central, de manera que los 3 juntos equivalgan al ancho de un ojo.
+            p.mb-0 Para el caso de la vista ¾ el proceso es básicamente el mismo, con la diferencia que la parte del rostro que se representa más alejada tendrá una ligera reducción con respecto a su parte opuesta como se muestra en la ilustración.
+
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 4")
         h4 Paso 4       
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img19.png')
+            p.mb-4 Se traza la línea del maxilar partiendo de las intersecciones verticales en el caso frontal y de la sección transversal de la cruz trazada en el caso de la vista ¾.
+            p.mb-0 La oreja se dibuja entre las líneas horizontales de la ceja y la nariz. Para la boca se usa de guía una línea tangente a la parte inferior de la circunferencia inicial dibujando una forma similar a una “m” alargada hacia los costados para el labio superior y una curva para el labio inferior, ambas con un ancho equivalente a 2 ojos.
+
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 5")
         h4 Paso 5       
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img20.png')
+            p.mb-4 Acá se define de mejor manera el contorno general del rostro y el cráneo como se muestra en la ilustración y se traza la línea de pelo.
+            p.mb-0 Para este momento la forma general del rostro está prácticamente definida y solo es cuestión de dedicar tiempo con el objetivo de generar detalles y obtener un dibujo más logrado.
+
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 6")
         h4 Paso 6       
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img21.png')
+            p.mb-0 Con todos los rasgos generales definidos es momento de experimentar con estilos de cabello para dar más personalidad al rostro en incluso experimentar alterando un poco las proporciones, ya que al tener definido el lugar donde se ubica cada parte, se puede jugar alterando el tamaño de los ojos, la nariz, la boca, el alto o ancho de la cara y así generar diferentes propuestas que partan de una estructura anatómica correcta.
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Paso 7")
         h4 Paso 7       
         .row.justify-content-center.mb-5
           .col-lg-10
-            figure      
+            figure.mb-5      
               img(src='@/assets/curso/tema2/img22.png')
+            p.mb-4 Ya con todas las características del rostro definidas, es momento de pasar el dibujo a limpio, ya sea entintado de forma análoga o digital para deshacerse de todas las líneas guías y dejar solo los trazos finales. 
+            p.mb-4 Como se puede apreciar este método funciona para hacer rostros en cualquier posición y la repetición del ejercicio una y otra vez permitirá no depender tanto de las guías para lograr un dibujo armónico.
+            p.mb-0 También cabe aclarar que este método permite dibujar cualquier tipo de rostro, incluso rostros cartoon, la diferencia radica en la necesidad de alterar las proporciones para obtener distintas morfologías. Por ejemplo, en lugar de partir de un círculo perfecto iniciar con un óvalo vertical para obtener un rostro más alto u horizontal para obtener un rostro más ancho; todo es cuestión de explorar y dar rienda suelta a la imaginación.
       
-    .row.justify-content-center
-      .col-lg-10
-        p.mb-0 El primer paso es dibujar una circunferencia, la cual servirá de base para representar la parte superior de la cabeza.
 
     Separador
+
+    h2 Lenguaje de formas.
 
     .tarjeta.p-5.mb-5(style="background-color:#F0C3C1")
       SlyderA
@@ -248,13 +285,14 @@
           .col-lg-10
             figure.mb-5     
               img(src='@/assets/curso/tema2/img23.png')
+            
             p.mb-5 El uso de las formas otorga diferentes características al diseño de un personaje lo cual contribuye a acentuar rasgos físicos y psicológicos planteados en etapas previas del proceso de creación. Por ejemplo, la decisión de añadir contornos curvos en lugar de contornos afilados en el rostro de un personaje puede evocar en el espectador la percepción de una personalidad amistosa, contrario a lo que pueden denotar los rasgos afilados y angulosos que pueden llegar a ser interpretados como señal de peligro.          
             br
         .row.justify-content-center
           .col-lg-10
             figure.mb-5     
               img(src='@/assets/curso/tema2/img24.png')
-            p.mb-4 Tal es el caso de Mickey Mouse, el personaje más emblemático de la marca registrada Disney que está compuesto casi en su totalidad por formas curvas, lo que ayuda a reforzar en gran medida su carácter amistoso, en contraposición un villano como el Joker a pesar de usar elementos cómicos en su diseño, donde resaltan las figuras triangulares y afiladas, las cuales sirven para marcar el potencial de peligro inherente de un personaje como él.
+            p.mb-4 Tal es el caso de <i>Mickey Mouse</i>, el personaje más emblemático de la marca registrada Disney que está compuesto casi en su totalidad por formas curvas, lo que ayuda a reforzar en gran medida su carácter amistoso, en contraposición un villano como el <i>Joker</i> a pesar de usar elementos cómicos en su diseño, donde resaltan las figuras triangulares y afiladas, las cuales sirven para marcar el potencial de peligro inherente de un personaje como él.
             p.mb-5 Existen tres grandes grupos de formas que sirven para modelar visualmente las características que posee un personaje, las cuales sin saberlo se tienen inscritas en la mente como espectadores, ya que cada grupo es capaz de evocar diferentes tipos de sensaciones según como sean usadas.
             br
     
@@ -282,8 +320,16 @@
       .col-lg-10        
         .cajon.color-primario.p-4.mb-4
           p.mb-4 A pesar de que cada grupo de formas tiene características únicas, esto no quiere decir que sean excluyentes entre sí. Por ejemplo, el Pingüino de Batman tiene un cuerpo que en esencia es una esfera que en principio lo hace parecer inofensivo, pero su cara y accesorios están llenos de formas angulares que denotan claramente su peligrosidad como villano.
-          p.mb-0 Para finalizar, es recomendable ver la conferencia dada por el concept artist Óscar Jiménez Vargas en el 17 festival de cine de Málaga donde muestra como fue el proceso de diseño de personajes para Justin y las espadas del valor desde el material complementario denominado “Diseña tus personajes de animación con arte” y la página web del artista.
+          p.mb-0 Para finalizar, es recomendable ver la conferencia dada por el <i>concept artist</i> Óscar Jiménez Vargas en el 17 festival de cine de Málaga donde muestra como fue el proceso de diseño de personajes para Justin y las espadas del valor desde el material complementario denominado “Diseña tus personajes de animación con arte” y la página <i>web</i> del artista.
          
+    .row.justify-content-center.mb-5
+      .col-lg-10 
+        a.anexo.mb-4.mb-lg-0(href="http://www.senasofiaplus.edu.co" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p <b>NOTA.</b> Se recomienda hacer el curso virtual ofertado en www.senasofiaplus.edu.co denominado “Ilustración de personajes en medios digitales”.
+
     div.p-4(style="background-color: #F8F1E7")
       h4.text-center Consejos
       LineaTiempoC.color-primario(text-small)
@@ -344,7 +390,7 @@
           .col-lg-10
             figure.mb-5     
               img(src='@/assets/curso/tema2/img34.png')
-            p.mb-4 Al igual que el diseño de personajes, los escenarios y props parten del proceso de creación literaria lo que brinda un contexto inicial sobre el tipo de ambiente que se debe desarrollar y en él se aplican muchos conceptos ya desarrollados hasta esta etapa. Elementos como el lenguaje audiovisual, composición, perspectiva, teoría del color, el lenguaje de formas e incluso principios anatómicos son fundamentales al plantear los escenarios.
+            p.mb-4 Al igual que el diseño de personajes, los escenarios y <i>props</i> parten del proceso de creación literaria lo que brinda un contexto inicial sobre el tipo de ambiente que se debe desarrollar y en él se aplican muchos conceptos ya desarrollados hasta esta etapa. Elementos como el lenguaje audiovisual, composición, perspectiva, teoría del color, el lenguaje de formas e incluso principios anatómicos son fundamentales al plantear los escenarios.
             p.mb-5 Como todo proceso de diseño se debe partir de la investigación, esta etapa es la que siempre dará información para que todos los elementos creados convivan armónicamente en el universo donde van a existir y por tanto, evitar disonancias visuales. Claro está que todo es válido siempre y cuando tenga un propósito claro y bien definido.
             br
         .row.justify-content-center

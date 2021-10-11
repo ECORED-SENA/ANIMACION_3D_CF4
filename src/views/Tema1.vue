@@ -9,8 +9,8 @@
       h1  Teoría del color
 
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video        
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/rlGfZoeO3Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center
       .col-lg-10
@@ -24,7 +24,7 @@
 
     p.mb-5 Los modelos de color permiten catalogar los colores y que se pueda trabajar con ellos por medios digitales. A través de los modelos se accede a diferentes sistemas para visualizar y modificar una imagen:
 
-    TabsC.color-primario
+    TabsC.color-acento-contenido
       .py-3.py-md-4(titulo="Modelo RGB")
         .row.justify-content-center.mb-5
           .col-lg-10

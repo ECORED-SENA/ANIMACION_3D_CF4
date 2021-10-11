@@ -11,7 +11,7 @@ Estos son los cambios hechos en la ECORED-BASE-2021
 
 ### Arreglado
 
-- Los titulos y todos los props que van dentro de las vistas soportan html
+- Los titulos y todos los <i>props</i> que van dentro de las vistas soportan html
   - AcordionA
   - LineaTiempoA
   - LineaTiempoB

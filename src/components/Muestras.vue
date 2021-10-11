@@ -891,7 +891,7 @@ div.mb-5
   #acordiones.titulo-segundo
     h2 Acordiones
 
-  p.mb-3 Es un componente web que permite ahorrar espacio vertical a través del uso de botones  representados por títulos que permiten desplegar u ocultar información pertinente. 
+  p.mb-3 Es un componente <i>web</i> que permite ahorrar espacio vertical a través del uso de botones  representados por títulos que permiten desplegar u ocultar información pertinente. 
 
   .h5 Requerimientos de información:
 
@@ -955,7 +955,7 @@ div.mb-5
   #tabs.titulo-segundo
     h2 Pestañas o Tabs
 
-  p.mb-3 Es un elemento web que permite cambiar rápidamente el contenido que el usuario está consumiendo sin cambiar de ventana o desplazarse verticalmente por el sitio web. 
+  p.mb-3 Es un elemento <i>web</i> que permite cambiar rápidamente el contenido que el usuario está consumiendo sin cambiar de ventana o desplazarse verticalmente por el sitio web. 
 
   .h5 Requerimientos de información
 
@@ -1502,7 +1502,7 @@ div.mb-5
   #llamados_accion.titulo-segundo
     h2 Llamados a la acción
 
-  p.mb-2 Es un bloque de texto que destaca por su composición y diseño. Su principal función es incentivar al usuario a realizar una acción a través de un botón o hipervínculo, en este caso, con el fin de poder acceder a recursos como infografías, videos, documentos y sitios web externos e independientes del componente formativo.
+  p.mb-2 Es un bloque de texto que destaca por su composición y diseño. Su principal función es incentivar al usuario a realizar una acción a través de un botón o hipervínculo, en este caso, con el fin de poder acceder a recursos como infografías, videos, documentos y sitios <i>web</i> externos e independientes del componente formativo.
 
   ul.lista-ul.mb-3
     li 

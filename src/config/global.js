@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Fundamentos de concept art',
+    componenteFormativo: 'Fundamentos de <i>concept </i>art',
     descripcionCurso:
-      'El concept art es la etapa en la cual se da solución a todos los desafíos narrativos en una producción mediante la creación de imágenes, permitiendo la optimización de recursos gracias a que tiene la posibilidad de generar en la ilustración una variedad de propuestas en periodos cortos de tiempo, en contraposición a otros métodos como la escultura o modelación de maquetas que requiere de mucho más tiempo para generar una sola propuesta.',
+      'El <i>concept </i>art es la etapa en la cual se da solución a todos los desafíos narrativos en una producción mediante la creación de imágenes, permitiendo la optimización de recursos gracias a que tiene la posibilidad de generar en la ilustración una variedad de propuestas en periodos cortos de tiempo, en contraposición a otros métodos como la escultura o modelación de maquetas que requiere de mucho más tiempo para generar una sola propuesta.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -56,7 +56,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Concept art',
+        titulo: '<i>concept </i>art',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -73,131 +73,8 @@ export default {
           },
         ],
       },
-      {
-        nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Componentes',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
-          },
-        ],
-      },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -228,141 +105,89 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Bancroft, T. (2012). Character mentor: learn by example to use expressions, poses, and staging to bring your characters to life. CRC Press.',
+    },
+    {
+      referencia: 'Cortes, J. (2020). 19 Principios del diseño de personajes. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.notodoanimacion.es/principios-del-diseno-de-personajes/',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Gámez, J. (2019). Cómo contar historias con el uso del color. ',
+      link: 'https://www.animum3d.com/blog/uso-del-color-en-ilustracion/',
+    },
+    {
+      referencia:
+        'Jiménez, Ó. (2016). Diseña tus personajes de Animación con arte. ',
+      link: 'https://www.animum3d.com/blog/ez-animacion-oscar-jimenez/',
+    },
+    {
+      referencia:
+        'González, D. (2015). Diseño de videojuegos: da forma a tus sueños. Ra-Ma.',
+    },
+    {
+      referencia: 'Real Academia Española (RAE). Color. ',
+      link: 'https://dle.rae.es/color',
+    },
+    {
+      referencia: 'Vargas, Ó. J. (2020). Character Desing. ',
+      link: 'https://oscarjvargas.com/',
+    },
+    {
+      referencia:
+        'Whelan, B. (1994). La armonía en el color - Nuevas tendencias (Color Harmony 2). México: FinalCopy.  ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
-    },
-    {
-      referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://corazondpapel.files.wordpress.com/2012/10/45547856-salinas-rosario-la-armonia-en-el-color-nuevas-tendencias.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Acrílico',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'la pintura acrílica es una clase de pintura que contiene un material plastificado, pintura de secado rápido, en la que los pigmentos están contenidos en una emulsión de un polímero acrílico. Aunque solubles en agua una vez que secas son resistentes a la misma. Destaca especialmente por la rapidez del secado. Asimismo, al secar se modifica ligeramente el tono, más que en el óleo.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Oleos',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'tipo de pintura que utiliza un vehículo graso, por lo general aceite de linaza, como disolvente de los pigmentos.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Perpendicular',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'dicho de una línea o de un plano: Que forma ángulo recto contra línea o con otro plano.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+      termino: 'Silueta',
+      significado: 'contorno de la figura.',
     },
     {
-      termino: 'Moda',
+      termino: 'Tangente',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'recta que toca a una curva o a una superficie sin cortarlas.',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Cortes, J. (2020). 19 Principios del diseño de personajes.',
+      tipo: 'Artículo web',
+      link:
+        'https://www.notodoanimacion.es/principios-del-diseno-de-personajes/',
     },
     {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
+      texto: 'Gámez, J. (2019). Cómo contar historias con el uso del color.',
+      tipo: 'Artículo web',
+      link: 'https://www.animum3d.com/blog/uso-del-color-en-ilustracion/',
+    },
+    {
+      texto: 'Jiménez, Ó. (2016). Diseña tus personajes de Animación con arte.',
       tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      link: 'https://www.animum3d.com/blog/ez-animacion-oscar-jimenez/',
     },
     {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
+      texto: 'Vargas, Ó. J. (2020). Character Desing.',
       tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://oscarjvargas.com/.',
     },
   ],
   creditos: {
@@ -378,7 +203,35 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jhon Alexander García',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+      },
+      {
+        nombre: 'Oscar Andrés Martin',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+      },
+      {
+        nombre: 'Oscar Absalón Guevara',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Evaluador Instruccional',
+        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital López',
+        cargo: 'Correctora de estilo',
+        centro:
+          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -386,33 +239,27 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Anllelo Andrés Reina Montañez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura -Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'edgar Mauricio Cortés García',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
