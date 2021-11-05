@@ -161,6 +161,10 @@
 
     p.mb-5 Como lo menciona Bride M. Whelan, “El color es a la vez simple y complejo. Este significa cosas distintas para distintas personas en culturas diferentes. Ningún color es visto del mismo modo por dos personas. El color es personal y universal, y envía mensajes de inagotable variedad”. (Whelan, 1994).
     
+    figure.mb-5
+      .video      
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/UWSe5bCGNhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     .row.justify-content-center.mb-5
       .col-lg-3
         figure      

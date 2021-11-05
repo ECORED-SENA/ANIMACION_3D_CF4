@@ -26,6 +26,10 @@
     #t_2_1.titulo-segundo
       h2 2.1  Diseño de personajes
 
+    figure.mb-5
+      .video         
+        iframe(width="1280" height="720" src="https://www.youtube.com/embed/g5_X7IImhiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     .row.justify-content-center.mb-5
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
