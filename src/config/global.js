@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Fundamentos de <i>concept </i>art',
+    componenteFormativo: 'Fundamentos de <i>concept art</i>',
     descripcionCurso:
-      'El <i>concept </i>art es la etapa en la cual se da solución a todos los desafíos narrativos en una producción mediante la creación de imágenes, permitiendo la optimización de recursos gracias a que tiene la posibilidad de generar en la ilustración una variedad de propuestas en periodos cortos de tiempo, en contraposición a otros métodos como la escultura o modelación de maquetas que requiere de mucho más tiempo para generar una sola propuesta.',
+      'El <i>concept art</i> es la etapa en la cual se da solución a todos los desafíos narrativos en una producción mediante la creación de imágenes, permitiendo la optimización de recursos gracias a que tiene la posibilidad de generar en la ilustración una variedad de propuestas en periodos cortos de tiempo, en contraposición a otros métodos como la escultura o modelación de maquetas que requiere de mucho más tiempo para generar una sola propuesta.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -56,7 +56,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: '<i>concept </i>art',
+        titulo: '<i>Concept art</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -253,7 +253,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura -Regional Santander',
       },
       {
-        nombre: 'edgar Mauricio Cortés García',
+        nombre: 'Edgar Mauricio Cortés García',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
@@ -267,7 +267,17 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Milady Tatiana Villamil Castellanos',
+        nombre: 'Andrés Camilo Penagos Beltran',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Jhon Fredy Rodriguez Castiiblanco',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Jose Daniel Guerrero Lievano',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },

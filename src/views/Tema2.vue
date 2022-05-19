@@ -5,13 +5,13 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 <i>concept </i>art
+      h1 <i>Concept art</i>
 
     .video.mb-5      
       iframe(width="1255" height="706" src="https://www.youtube.com/embed/8iZoC6KWllA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.mb-5
-      .col-lg-10 Durante la etapa de <i>concept </i>art se desarrollan los diseños de personajes, <i>props</i> y escenarios e incluso se hacen fotogramas clave de ciertas acciones importantes de la historia. A pesar de estar relacionado con la ilustración y compartir muchos elementos, corresponden a cosas diferentes, ya que el objetivo de la ilustración consiste en directamente contar historias, mientras que el <i>concept </i>art solo pretende plasmar una visión de forma en que los integrantes de un equipo de producción tengan claridad en cuanto a la forma en que se debe ver algo.
+      .col-lg-10 Durante la etapa de <i>concept art</i> se desarrollan los diseños de personajes, <i>props</i> y escenarios e incluso se hacen fotogramas clave de ciertas acciones importantes de la historia. A pesar de estar relacionado con la ilustración y compartir muchos elementos, corresponden a cosas diferentes, ya que el objetivo de la ilustración consiste en directamente contar historias, mientras que el <i>concept art</i> solo pretende plasmar una visión de forma en que los integrantes de un equipo de producción tengan claridad en cuanto a la forma en que se debe ver algo.
 
     .row.justify-content-center
       .col-lg-7
@@ -19,7 +19,7 @@
           img(src='@/assets/curso/tema2/img01.png')
       .col-lg-5
         p.mb-4 En cuanto a los materiales, lo más importante es una mente nutrida, un cerebro que tenga claro los fundamentos de anatomía, teoría del color, composición, perspectiva, uso de formas, historia del arte y que sobre todo se está nutriendo constantemente de cine, música, pintura, teatro… en general de arte y también del mundo que lo rodea, debido a que la observación del mundo es fundamental para entenderlo y lograr que, al momento de proponer gráficamente ideas, estas sean coherentes y creíbles.
-        p.mb-0 Más allá de esto, con un lápiz y una hoja de papel, es suficiente para hacer <i>concept  art.</i> Pero básicamente se puede hacer uso de prácticamente cualquier material e instrumento que permita al artista plasmar imágenes como los tradicionales oleos, acrílicos, acuarelas, lápices de color, entre otros. Sin embargo, la evolución tecnológica ha permitido que se desarrollen innumerables alternativas de hardware y software que han causado la preponderancia de los medios digitales en el desarrollo de <i>concept </i>art, gracias a las alternativas que ofrecen para la optimización de tiempos.
+        p.mb-0 Más allá de esto, con un lápiz y una hoja de papel, es suficiente para hacer <i>concept  art.</i> Pero básicamente se puede hacer uso de prácticamente cualquier material e instrumento que permita al artista plasmar imágenes como los tradicionales óleos, acrílicos, acuarelas, lápices de color, entre otros. Sin embargo, la evolución tecnológica ha permitido que se desarrollen innumerables alternativas de hardware y software que han causado la preponderancia de los medios digitales en el desarrollo de <i>concept art</i>, gracias a las alternativas que ofrecen para la optimización de tiempos.
 
     Separador
 

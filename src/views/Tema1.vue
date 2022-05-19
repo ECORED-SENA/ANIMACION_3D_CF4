@@ -28,7 +28,7 @@
       .py-3.py-md-4(titulo="Modelo RGB")
         .row.justify-content-center.mb-5
           .col-lg-10
-            p.mb-0 Modelo aditivo que se basa en los colores luz. El ojo humano cuenta con 3 tipos de conos o células foto receptoras que determinan los 3 colores primarios: rojo, verde y azul (RGB por siglas en inglés). De la combinación de estos 3 se obtiene el color blanco y la ausencia de los mismos dará como resultado el negro. Este modelo de color es usado para toda clase de dispositivos como pantallas, celulares, etc.
+            p.mb-0 Modelo aditivo que se basa en los colores luz. El ojo humano cuenta con 3 tipos de conos o células fotorreceptoras que determinan los 3 colores primarios: rojo, verde y azul (RGB por siglas en inglés). De la combinación de estos 3 se obtiene el color blanco y la ausencia de los mismos dará como resultado el negro. Este modelo de color es usado para toda clase de dispositivos como pantallas, celulares, etc.
         .row.justify-content-center
           .col-lg-4
             figure      
@@ -36,7 +36,7 @@
       .py-3.py-md-4(titulo="Modelo CMYK")
         .row.justify-content-center.mb-5
           .col-lg-10
-            p.mb-0 Modelo sustractivo basado en los colores pigmento o físicos. Los colores primarios en este modelo son: amarillo, cían y magenta (CMYK por sus siglas en inglés). Al contrario del modelo RGB, la combinación de los 3 primarios genera el color negro (key o black). Este modelo es usado en pintura, tintes e impresión.
+            p.mb-0 Modelo sustractivo basado en los colores pigmento o físicos. Los colores primarios en este modelo son: amarillo, cian y magenta (CMYK por sus siglas en inglés). Al contrario del modelo RGB, la combinación de los 3 primarios genera el color negro (key o black). Este modelo es usado en pintura, tintes e impresión.
         .row.justify-content-center
           .col-lg-4
             figure      
@@ -44,7 +44,7 @@
       .py-3.py-md-4(titulo="Modelo HSV")
         .row.justify-content-center.mb-5
           .col-lg-10
-            p.mb-0 Se basa en las propiedades del color (tono , saturación y luminocidad), las cuales se explican en mayor detalle en la siguiente lección.
+            p.mb-0 Se basa en las propiedades del color (tono, saturación y luminosidad), las cuales se explican en mayor detalle en la siguiente lección.
         .row.justify-content-center
           .col-lg-4
             figure      
@@ -116,8 +116,8 @@
           .col-lg-10
             figure      
               img(src='@/assets/curso/tema1/img09.png')
-      .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Triada")
-        h4 Triada
+      .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Tríada")
+        h4 Tríada
         p.mb-5 Quizás es una de las más difíciles de usar correctamente. Son tres colores que son equidistantes. El reto está en el equilibrio de cada uno de los tonos, dado que al usarse en la misma medida generará caos. Suele usarse para escenas con estilo cartoon, orientado al público infantil.
         .row.justify-content-center.mb-5
           .col-lg-10
@@ -125,7 +125,7 @@
               img(src='@/assets/curso/tema1/img10.png')
       .tarjeta.color-acento-contenido.p-4.t1-div2(titulo="Complementario")
         h4 Complementario
-        p.mb-5 Es el esquema más popular, donde se usan colores de lados opuestos del círculo. Naturalmente siempre van bien juntos; sin embargo, como en el esquema de triada, se debe elegir un color predominante y usar el tono complementario para crear contraste o puntos de interés.
+        p.mb-5 Es el esquema más popular, donde se usan colores de lados opuestos del círculo. Naturalmente siempre van bien juntos; sin embargo, como en el esquema de tríada, se debe elegir un color predominante y usar el tono complementario para crear contraste o puntos de interés.
         .row.justify-content-center.mb-5
           .col-lg-10
             figure      

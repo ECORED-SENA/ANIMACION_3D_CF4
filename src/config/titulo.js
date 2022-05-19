@@ -1,1 +1,1 @@
-module.exports = 'Conceptualización 3D'
+module.exports = 'Fundamentos de concept art'
