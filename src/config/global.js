@@ -132,7 +132,7 @@ export default {
     },
     {
       referencia: 'Vargas, Ó. J. (2020). Character Desing. ',
-      link: 'https://oscarjvargas.com/',
+      link: '',
     },
     {
       referencia:
@@ -183,11 +183,6 @@ export default {
       texto: 'Jiménez, Ó. (2016). Diseña tus personajes de Animación con arte.',
       tipo: 'Página web',
       link: 'https://www.animum3d.com/blog/ez-animacion-oscar-jimenez/',
-    },
-    {
-      texto: 'Vargas, Ó. J. (2020). Character Desing.',
-      tipo: 'Página web',
-      link: 'https://oscarjvargas.com/.',
     },
   ],
   creditos: {
